@@ -5,11 +5,16 @@
 ## Quick Start
 
 ```bash
+#for installation
+pkg install git
+git clone https://github.com/gourav286-code/Urlshorr.git
 # Run the tool
 python main.py
 
 # Open a short URL directly
 python main.py AbC123
+
+
 ```
 
 Features
